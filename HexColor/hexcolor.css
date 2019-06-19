@@ -1,0 +1,6 @@
+.align-item-center{
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    margin-top:270px;
+}
